@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>CFBundleExecutable</key><string>Otowake</string>
+    <key>CFBundleIdentifier</key><string>jp.otowake.Otowake</string>
+    <key>CFBundleName</key><string>Otowake</string>
+    <key>CFBundleDisplayName</key><string>音分け</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>1.0.3</string>
+    <key>CFBundleVersion</key><string>4</string>
+    <key>CFBundleIconFile</key><string>AppIcon</string>
+    <key>LSMinimumSystemVersion</key><string>14.4</string>
+    <key>LSUIElement</key><true/>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSPrincipalClass</key><string>NSApplication</string>
+    <key>NSAudioCaptureUsageDescription</key><string>アプリごとに音量・ミュート・出力先を変更するため、アプリの音声を取得します。音声はメモリ内で処理し、ファイルへの保存や外部への送信は行いません。</string>
+</dict></plist>
